@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","flutter_web.examples.gallery|lib/gallery/demo.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","flutter_web.examples.gallery|lib/gallery/backdrop.dart","flutter_web.examples.gallery|lib/gallery/demos.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math","developer"],"hasMain":false}
